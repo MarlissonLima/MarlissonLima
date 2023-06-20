@@ -1,6 +1,5 @@
-
-
-<image src="oldschoolcomputer.gif">
-
 ## Hi, ;)
 ### Olá, ;)
+
+<image src="oldschoolcomputer.gif" class="center">
+
