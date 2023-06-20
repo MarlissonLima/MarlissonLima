@@ -1,3 +1,6 @@
 
 
-<center><image src="oldschoolcomputer.gif"></center>
+<image src="oldschoolcomputer.gif">
+
+## Hi, ;)
+### Olá, ;)
