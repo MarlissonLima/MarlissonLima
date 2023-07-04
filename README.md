@@ -1,2 +1,3 @@
-<image src="future.gif" class="center">
+<div align="center"><img src=""/></div>
+
 
