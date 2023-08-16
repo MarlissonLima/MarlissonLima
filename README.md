@@ -8,4 +8,4 @@
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 ## Estudando atualmente
-Olá,estou estudando cálculo e álgebra linear por conta própria,além de melhorando minhas skills em C e C++ para futuramente estudar uma API gráfica(provavelmente vai ser opengl :P) e alguma biblioteca como SDL2 ou SFML com c++ para desenvolver jogos simples.
+Olá,estou estudando cálculo e álgebra linear,além de melhorando minhas skills em C e C++ para futuramente estudar uma API gráfica(provavelmente vai ser opengl :P) e alguma biblioteca como SDL2 ou SFML com c++ para desenvolver jogos simples.
