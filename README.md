@@ -1,5 +1,5 @@
 <div align="center"><img title="ArtStation, by Moises Dimas" src="pixelknight.gif"/></div>
 
 ## Current studies
-Hi, im studying some Python(for game development with pygame). Sometimes i review programming in C language to practice concepts of data structure and algorithms ;)
+Hi, im studying some Python(for gamedev with pygame),low level programming(C/asm) and lisp
 
