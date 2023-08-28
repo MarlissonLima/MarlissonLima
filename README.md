@@ -1,5 +1,6 @@
 <div align="center"><img src="systemfailure.gif"/></div>
 
-## Current studies
-Hi, im studying low level programming(C/asm) and lua programming language
+## Estudando atualmente
+Olá, estou estudando GML para desenvolver jogos no GameMaker Studio 2 e programação para frontend para desenvolver websites
+
 
