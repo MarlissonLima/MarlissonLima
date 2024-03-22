@@ -4,3 +4,11 @@
 
 *meu objetivo atual em relação à programação\desenvolvimento é trabalhar com back-end
 
+*idiomas:
+
+portugues(nativo)🇧🇷
+
+ingles(medio)🇺🇸
+
+japones(aprendendo)🇯🇵
+
