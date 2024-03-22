@@ -2,5 +2,5 @@
 
 *programo algumas coisas em python e C
 
-
+*meu objetivo atual em relação à programação\desenvolvimento é trabalhar com back-end
 
