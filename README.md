@@ -1,4 +1,4 @@
-*Hey,listen!*
+*Hey, listen!*
 
 ![link playing](link-ocarina.gif)
 
