@@ -6,7 +6,7 @@
 
 **interest in**:
 
--low level programming
+-web 3.0
 
 -gamedev
 
