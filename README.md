@@ -6,11 +6,13 @@
 
 **interest in**:
 
--web 3.0
+-low level programming
 
 -gamedev
 
 -mod development(for games)
 
 -game console emulators
+
+
 
