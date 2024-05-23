@@ -8,11 +8,11 @@
 
 -web 3.0
 
--gamedev
+-gamedev/mod development
 
--mod development(for games)
+-low level programming
 
--game console emulators
+
 
 
 
