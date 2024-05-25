@@ -6,7 +6,7 @@
 
 **interest in**:
 
--web 3.0
+-infosec
 
 -gamedev/mod development
 
