@@ -1,6 +1,6 @@
-*Hey, listen!*
+*"No longer could I resist. I just had to see it for myself."*
 
-![link playing](link-ocarina.gif)
+![link playing](quirrel-cityoftears.gif)
 
 
 
