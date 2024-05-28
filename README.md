@@ -6,8 +6,6 @@
 
 **interest in**:
 
--infosec
-
 -gamedev/mod development
 
 -low level programming
