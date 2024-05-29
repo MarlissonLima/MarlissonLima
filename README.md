@@ -6,6 +6,8 @@
 
 **interest in**:
 
+-web 3.0
+
 -gamedev/mod development
 
 -low level programming
