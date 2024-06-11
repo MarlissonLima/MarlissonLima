@@ -19,7 +19,7 @@
 
 -really basic OS system(to understand better the os concepts) -> [ ]
 
--DOOM style 3d game in pygame framework -> [-]
+-DOOM style 3d(pseudo 3d actually) game in pygame framework -> [-]
 
 -data structures and algorithms with C language -> [-]
 
