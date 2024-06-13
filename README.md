@@ -34,6 +34,9 @@
   [-]  = on progress(means that at least im watching videos or reading things about it, dont necessarily have a repository with codes or whatever)
   
   [ ]  = not even started
+
+  #
+  ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![Win11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
   
 
 
