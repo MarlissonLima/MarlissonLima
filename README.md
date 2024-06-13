@@ -19,9 +19,11 @@
 
 -really basic OS system(to understand better the os concepts) -> [ ]
 
--DOOM style 3d(pseudo 3d actually) game in pygame framework -> [-]
+-DOOM/Wolfenstein clone game in pygame framework -> [-]
 
 -data structures and algorithms with C language -> [-]
+
+-pygame platformer game(im following,as the main source, a channel called "DaFluffyPotato")
 
 
 
