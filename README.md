@@ -23,8 +23,6 @@
 
 -data structures and algorithms with C language -> [-]
 
--pygame platformer game(im following,as the main source, a channel called "DaFluffyPotato") -> [-]
-
 
 
 ***note about the checkboxes***:
