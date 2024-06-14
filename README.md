@@ -9,7 +9,7 @@
 
 -infosec
 
--gamedev/mod development
+-gamedev/computer graphics
 
 -low level programming
 
