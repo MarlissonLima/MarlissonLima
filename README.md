@@ -1,6 +1,6 @@
-*The future is not a straight line. It is filled with many crossroads. There must be a future that we can choose for ourselves.*
+*"The future is not a straight line. It is filled with many crossroads. There must be a future that we can choose for ourselves."*
 
-![quirrel-chilling out](quirrel-cityoftears.gif)
+![tree](landscape-anime.gif)
 
 
 #
