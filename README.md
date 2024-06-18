@@ -1,4 +1,4 @@
-*"No longer could I resist. I just had to see it for myself."*
+*The future is not a straight line. It is filled with many crossroads. There must be a future that we can choose for ourselves.*
 
 ![quirrel-chilling out](quirrel-cityoftears.gif)
 
