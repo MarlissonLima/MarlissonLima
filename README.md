@@ -9,6 +9,8 @@
 
 -infosec
 
+-offensive security
+
 -gamedev/computer graphics
 
 -low level programming
