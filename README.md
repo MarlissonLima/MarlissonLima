@@ -21,10 +21,9 @@
 
 -really basic OS system(to understand better the os concepts) -> [ ]
 
--DOOM/Wolfenstein clone game in pygame framework -> [-]
+-DOOM/Wolfenstein clone game in pygame framework -> [~]
 
 -data structures and algorithms with C language -> [-]
-
 
 
 ***note about the checkboxes***:
@@ -32,6 +31,8 @@
   [x]  = already done
   
   [-]  = on progress(means that at least im watching videos or reading things about it, dont necessarily have a repository with codes or whatever)
+
+  [~] = i havent started and im thinking about starting in my free time
   
   [ ]  = not even started
 
