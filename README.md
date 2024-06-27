@@ -21,9 +21,13 @@
 
 -really basic OS system(to understand better the os concepts) -> [ ]
 
+-pygame platfomer 2d game (tutorial by "DaFluffyPotato" channel) -> [~]
+
 -DOOM/Wolfenstein clone game in pygame framework -> [~]
 
 -data structures and algorithms with C language -> [-]
+
+-password generator with shell scripting -> [-]
 
 
 ***note about the checkboxes***:
