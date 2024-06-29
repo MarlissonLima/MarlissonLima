@@ -21,7 +21,7 @@
 
 -really basic OS system(to understand better the os concepts) -> [ ]
 
--pygame platfomer 2d game (tutorial by "DaFluffyPotato" channel) -> [~]
+-platfomer 2d game with Godot game engine -> [-]
 
 -DOOM/Wolfenstein clone game in pygame framework -> [~]
 
