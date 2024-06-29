@@ -27,8 +27,6 @@
 
 -data structures and algorithms with C language -> [-]
 
--password generator with shell scripting -> [-]
-
 
 ***note about the checkboxes***:
 
